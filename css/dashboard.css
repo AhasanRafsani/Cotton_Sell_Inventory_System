@@ -1,0 +1,31 @@
+.box{
+    position:relative;
+    min-height:140px;
+    background:darkred;
+    padding-top:50px;
+    border-left:7px solid burlywood;
+    border-radius:10px;
+    float:left;
+    margin:30px 30px 0 40px;
+    color:#b3b7bb;
+    padding:50px 0px 0px 10px ;
+    box-shadow:3px 3px 6px #1b1e21,-3px 3px 6px #1b1e21;
+    animation: animationId 1s;
+}
+.box .box-body{
+    position:absolute;
+    top:0;
+    left: 0;
+    height:40px;
+    width:100%;
+    color:white;
+    background:dodgerblue;
+    border-radius:4px 10px  0px  0px;
+    color:black;
+    padding:5px;
+}
+.box td{
+    color:darkseagreen;
+    font-weight:bolder;
+    font-size:17px;
+}

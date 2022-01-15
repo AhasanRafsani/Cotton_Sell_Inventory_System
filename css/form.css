@@ -1,0 +1,28 @@
+
+.form-style h4{
+    color:white;
+    padding-top:5px;
+}
+.form-style input[type="text"],input[type="password"],input[type="date"]{
+    border:2px solid black;
+    background: #b1dfbb;
+    border-radius:10px;
+    color:navy;
+}
+.form-style input[type="submit"]{
+    border:2px solid black;
+    border-radius:10px;
+    color:navy;
+}
+.form-style select{
+
+    border:2px solid black;
+    background: #b1dfbb;
+    border-radius:10px;
+}
+
+.form-style option{
+    background:wheat;
+    color:black;
+    padding-bottom:5px;
+}

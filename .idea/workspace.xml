@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e358e642-33dd-4143-ad0f-10f31d563e4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1id18cERfBRuYwgP6Gn4AFw7HJV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e358e642-33dd-4143-ad0f-10f31d563e4d" name="Default Changelist" comment="" />
+      <created>1602222497399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602222497399</updated>
+      <workItem from="1602222498555" duration="3441000" />
+      <workItem from="1602250845199" duration="6173000" />
+      <workItem from="1602264999429" duration="4690000" />
+      <workItem from="1602340168766" duration="11795000" />
+      <workItem from="1602398148759" duration="2318000" />
+      <workItem from="1602434823399" duration="7343000" />
+      <workItem from="1602479998139" duration="2327000" />
+      <workItem from="1602511602564" duration="8191000" />
+      <workItem from="1602565608319" duration="6991000" />
+      <workItem from="1602595863428" duration="7072000" />
+      <workItem from="1602653785037" duration="1631000" />
+      <workItem from="1602658009140" duration="2094000" />
+      <workItem from="1602685523446" duration="1993000" />
+      <workItem from="1602687616472" duration="2786000" />
+      <workItem from="1602692656504" duration="3250000" />
+      <workItem from="1602741484613" duration="5317000" />
+      <workItem from="1602768282841" duration="1059000" />
+      <workItem from="1602769516175" duration="7498000" />
+      <workItem from="1602828320175" duration="1280000" />
+      <workItem from="1602856689889" duration="6746000" />
+      <workItem from="1602943689153" duration="4978000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602223448270">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="457" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1602223448270" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602438931014">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1602438931014" />
+    <state x="517" y="292" key="NewPhpFileDialog" timestamp="1602828508233">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1602828508233" />
+    <state x="184" y="14" key="SettingsEditor" timestamp="1602857425526">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602857425526" />
+  </component>
+</project>

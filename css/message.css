@@ -1,0 +1,9 @@
+.message{
+    height:auto;
+    text-align:center;
+    background:#b3b7bb;
+    color:black;
+    box-shadow:3px 3px 5px black,-3px 3px 5px black;
+    border-radius:5px;
+    padding:5px;
+}
